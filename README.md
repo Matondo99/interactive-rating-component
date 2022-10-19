@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Beautiful Rating Component](https://www.frontendmentor.io/solutions/beautiful-rating-component-jvdPFFJJfj)
 - Live site: [Interactive Rating Component](https://matondo99.github.io/interactive-rating-component/)
 
 ## My process
@@ -59,6 +59,5 @@ Feel like the way I use `input` element in my script expose the page to *cross-s
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Astar Bahouidi](https://github.com/Matondo99)
+- Frontend Mentor - [@Matondo99](https://www.frontendmentor.io/profile/Matondo99)
