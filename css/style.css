@@ -54,12 +54,23 @@ body {
   color: var(--clr-neutral-10);
   background: var(--clr-neutral-90);
   margin: 0;
+  /* For presentation purposes */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  min-height: 100vh;
+  padding: 1.5rem 1rem;
 }
 
 h1 {
   color: var(--clr-neutral-00);
   font-size: 28px;
   font-weight: 700;
+}
+
+main {
+  margin: auto;
 }
 
 .card {
@@ -156,6 +167,8 @@ h1 {
 
 .attribution {
   font-size: 11px;
+  text-align: center;
+  margin: 1rem auto 0;
 }
 
 .attribution a {
